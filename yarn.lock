@@ -6401,6 +6401,11 @@ react-native-gradle-plugin@^0.71.18:
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.71.18.tgz#20ef199bc85be32e45bb6cc069ec2e7dcb1a74a6"
   integrity sha512-7F6bD7B8Xsn3JllxcwHhFcsl9aHIig47+3eN4IHFNqfLhZr++3ElDrcqfMzugM+niWbaMi7bJ0kAkAL8eCpdWg==
 
+react-native-launcher-kit@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/react-native-launcher-kit/-/react-native-launcher-kit-1.0.4.tgz#5c35469189825f3e04fbf5a62edf226be4735667"
+  integrity sha512-Tt3wt8eHPQ/3dcGsBMB4dXfTiYdHkyvnwmS/guVh/UrIl1wlX+mZjfKSc87yj3ttUv6UQXjOuX9D2Lk5naqJIQ==
+
 react-native@0.71.8:
   version "0.71.8"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.71.8.tgz#4314145341c49448cf7465b93ced52a433a5e191"

@@ -16,7 +16,8 @@
     "react": "18.2.0",
     "react-devtools": "^4.27.8",
     "react-native": "0.71.8",
-    "react-native-gesture-handler": "~2.5.0"
+    "react-native-gesture-handler": "~2.5.0",
+    "react-native-launcher-kit": "^1.0.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
@@ -41,7 +42,7 @@
   "prettier": {
     "*.+(json|css|md|ts|tsx)": "prettier --write --fix --ext .ts,.tsx ."
   },
-   "eslintConfig": {
+  "eslintConfig": {
     "overrides": [
       {
         "files": [
