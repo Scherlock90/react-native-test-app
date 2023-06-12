@@ -11,14 +11,19 @@ interface IPath {
 
 const gesturesStyles = StyleSheet.create({
   container: {
-    flex: 1
+    flex: 0.7
   },
   canvasContainer: {
     flex: 1,
     backgroundColor: '#fff59d'
   },
   canvas: {
-    flex: 8
+    flex: 1
+  },
+  canvasWithSymbol: {
+    flex: 1,
+    backgroundColor: 'red',
+    height: 100
   }
 });
 
